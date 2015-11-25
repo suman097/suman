@@ -1,0 +1,4 @@
+[19-Oct-2015 16:46:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/streetremarks123/public_html/assets/frontend/js/company.php on line 12
+[19-Oct-2015 16:46:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/streetremarks123/public_html/assets/frontend/js/company.php on line 12
+[19-Oct-2015 17:47:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/streetremarks123/public_html/assets/frontend/js/company.php on line 12
+[19-Oct-2015 17:47:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/streetremarks123/public_html/assets/frontend/js/company.php on line 12

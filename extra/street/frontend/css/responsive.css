@@ -1,0 +1,142 @@
+
+/******************* This CSS is for more then 766px width. So, this will work for the mobile and desktop both *********************/
+
+@media only screen and (min-width: 766px) {
+/*--------header panel start---------*/
+.res_chatbox {
+	display:none;
+}
+
+}
+
+
+
+/* Note: Design for a width of 768px */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+.cbp-hrmenu {
+		font-size: 80%;
+		margin-top:-52px;
+	}
+.cbp-hrmenu > ul > li > a {
+	padding: 16.4px 10px;
+}
+
+.dropdown_pos {
+	position:absolute;
+	margin-top:-40px;
+}
+.cbp-hrmenu .cbp-hrsub {
+	width: 680px;
+}
+.res_chatbox {
+	display:none;
+}
+
+}
+
+
+@media only screen and (min-width: 992px) and (max-width: 1024px)  {
+	
+
+.dropdown_pos {
+	position:absolute;
+	margin-top:-167px;
+}
+
+.res_chatbox {
+	display:none;
+}
+}
+
+
+
+
+
+
+/* Note: Design for a width of 320px */
+
+
+@media only screen and (min-width: 300px) and (max-width: 767px) {
+	
+.banner_panel_main {
+	background:url(../images/banner_small.jpg) no-repeat center top;
+	width:100%;
+	background-size:cover;
+}
+.register_form_panel {
+	width:100%;
+	background:url(../images/reg_small.jpg) no-repeat;
+	background-size:100%;
+}
+.cbp-hrmenu .cbp-hrsub {
+	width: 100%;
+}
+.dropdown_pos {
+	position:absolute;
+	margin-top:-385px;
+}
+.auto_sagetion{
+    width: 90%;
+	margin-top: -92px;
+}
+	
+}
+
+
+
+
+
+
+
+/* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.banner_panel_main {
+	background:url(../images/banner_small.jpg) no-repeat center top;
+	width:100%;
+	background-size:cover;
+}
+.register_form_panel {
+	width:100%;
+	background:url(../images/reg_small.jpg) no-repeat;
+}
+
+.cbp-hrmenu .cbp-hrsub {
+	width: 100%;
+}
+
+.chat-box-online-div {
+	display:none;
+}
+.banner_panel_main .btn-default {
+  width:100%;
+}
+.auto_sagetion{
+    width: 90%;
+	margin-top: -92px;
+}
+
+}
+
+@media only screen and (min-width: 300px) and (max-width: 479px) {
+.register_form_panel {
+	width:100%;
+	background:url(../images/reg_small.jpg) no-repeat;
+}
+.cbp-hrmenu .cbp-hrsub {
+	width: 100%;
+}
+.chat-box-online-div {
+	display:none;
+}
+.banner_panel_main .btn-default {
+  width:100%;
+}
+.auto_sagetion{
+    width: 90%;
+	margin-top: -92px;
+}
+
+}
